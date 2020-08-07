@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'testcrack123'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ae65aba2a53740aba4c033ad6ac2ec59 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_435ad9c4b8174ca081cec73cd237891e }}
