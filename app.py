@@ -6,7 +6,6 @@ from werkzeug.utils import secure_filename
 import numpy as np
 
 
-
 ALLOWED_EXTENSIONS = set(['jpg', 'jpeg', 'png'])
 IMAGE_SIZE = (150, 150)
 UPLOAD_FOLDER = 'uploads'
